@@ -1,0 +1,47 @@
+ {
+    "immatriculation": {
+      "ID_IMMATRICULATION": 1,
+      "NUMERO_CARTE_ROSE": "opggg",
+      "NUMERO_PLAQUE": "IT4668H",
+      "CATEGORIE_PLAQUE": "temporaire",
+      "MARQUE_VOITURE": "TOYOTA",
+      "NUMERO_CHASSIS": "HVV5577FDFHDF6FDNFD",
+      "NOMBRE_PLACE": "4",
+      "NOM_PROPRIETAIRE": "Bucumi",
+      "PRENOM_PROPRIETAIRE": "jean",
+      "NUMERO_IDENTITE": "1605/553.555/2008",
+      "PROVINCE": "GITEGA",
+      "CATEGORIE_PROPRIETAIRE": "ETUDIANT",
+      "CATEGORIE_USAGE": "TRANSPORT",
+      "PUISSANCE": "5555",
+      "COULEUR": "BLANC",
+      "ANNEE_FABRICATION": "2010",
+      "DATE_INSERTION": "2022-03-02T09:56:48.000Z",
+      "MODELE_VOITURE": "TOYOTA",
+      "POIDS": "500",
+      "TYPE_CARBURANT": "ESSENCE",
+      "TAXE_DMC": "555FDF5DF5",
+      "NIF": "DFD5F5DF65FD5FD",
+      "DATE_DELIVRANCE": "12/6/2016"
+    },
+    "controle": {
+      "ID_CONTROLE": 1,
+      "NUMERO_CONTROLE": "FHDFHDF8D8F",
+      "NUMERO_PLAQUE": "IT4668H",
+      "NUMERO_CHASSIS": "HVV5577FDFHDF6FDNFD",
+      "PROPRIETAIRE": "BUCUMI",
+      "DATE_DEBUT": "10/9/2021",
+      "DATE_VALIDITE": "10/3/2022",
+      "TYPE_VEHICULE": "TOYOTA"
+    },
+    "assurance": {
+      "ID_ASSURANCE": 1,
+      "NUMERO_PLAQUE": "IT4668H",
+      "NOM_ASSUREUR": "BICOR",
+      "DATE_DEBUT": "16/12/2021",
+      "DATE_VALIDITE": "2021-05-15",
+      "PLACES_ASSURES": "4",
+      "TYPE_ASSURANCE": "PREMIUM",
+      "NOM_PROPRIETAIRE": "BUCUMI JEAN"
+    }
+  }
